@@ -1,10 +1,14 @@
 body{
+  background-image: url(../images/PDFLandingFondo.jpg);
 font-family: 'Montserrat', sans-serif;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
 /*background: #5d5e60;*/
 }
 
 .awebo{
-  padding-top: 15px;
+  
 }
 
 
